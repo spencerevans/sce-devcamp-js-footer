@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "This is a project for Code To Success Moldova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerevans/sce-devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Spencer Evans <spencerevans.sce@gmail.com> (https://spencerevansdev.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spencerevans/sce-devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/spencerevans/sce-devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
